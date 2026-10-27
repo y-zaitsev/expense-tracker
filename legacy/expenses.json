@@ -3,5 +3,10 @@
     "amount": 50.0,
     "category": "Food",
     "date": "2026-10-26"
+  },
+  {
+    "amount": 40.0,
+    "category": "Shop",
+    "date": "2026-11-1"
   }
 ]
